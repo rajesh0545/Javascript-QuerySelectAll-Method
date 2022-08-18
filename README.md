@@ -1,0 +1,1 @@
+# Javascript-QuerySelectAll-Method
